@@ -12,10 +12,3 @@ if(in_array($argv[2], array("0"))) {//проверяем, что второе ч
         echo $divisible / $divider . PHP_EOL;
     }   
 }
-    
-
-
-
-
-
-//echo $divisible . PHP_EOL . $divider . PHP_EOL;
